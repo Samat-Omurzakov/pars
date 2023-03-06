@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 
 from selenium import webdriver
 
-bot = Bot(token='6035103069:AAG4-9-6rgCvmSpwHar665UDXqejBwFPf7U')
+bot = Bot(token='5659642703:AAHBvNSD3FgxSQK-nkUW0uEwuUaFYZjbauU')
 dp = Dispatcher(bot)
 
 
